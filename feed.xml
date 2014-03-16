@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:26154188-B27B-4F9A-B758-5138D48DAD79</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-07-20T12:44:30-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:A7A6C4C2-FCFE-4CCB-AB73-419C50A38F98</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">A7A6C4C2-FCFE-4CCB-AB73-419C50A38F98</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2013-07-20T12:44:30.001-07:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:17A6E9B6-2688-4AED-A983-1D1E7DDDEABF</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">17A6E9B6-2688-4AED-A983-1D1E7DDDEABF</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2013-07-20T12:44:30.002-07:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8B7714B4-A55E-42AF-962A-02739BCC4435</id>
+  <title>Blogs</title>
+  <title xmlns="urn:iweb:">Blogs</title>
+  <in-navbar xmlns="urn:iweb:">8B7714B4-A55E-42AF-962A-02739BCC4435</in-navbar>
+  <link rel="alternate" href="Blogs.html"/>
+  <updated>2013-07-20T12:44:30.003-07:00</updated>
+  <content>Blogs</content>
+ </entry>
+</feed>
